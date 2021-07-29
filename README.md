@@ -42,4 +42,4 @@ python crawler.py
 ```
 
 ## 🤝 Credits 
-All credit for the grammars used in this project go to @jazevedo620 and the [GT Scheduler](https://github.com/gt-scheduler) team. The original grammars and visitor patterns can be found [here](https://github.com/gt-scheduler/crawler/tree/master/src/steps/prereqs)
+All credit for the grammars used in this project go to [jazevedo620](https://github.com/jazevedo620) and the [GT Scheduler](https://github.com/gt-scheduler) team. The original grammars and visitor patterns can be found [here](https://github.com/gt-scheduler/crawler/tree/master/src/steps/prereqs)
