@@ -1,5 +1,5 @@
 # GT Course Tree Crawler 🕷
-> A crawler that scrapes course requisite information data from Georgia Tech's OSCAR system for the [GT Course Tree](https://github.com/devarsi-rawal/gt-course-tree)
+> A crawler that scrapes course requisite information data from Georgia Tech's OSCAR system for the [GT Course Tree](https://github.com/devarsirawal/gt-course-tree)
 
 ## 🚀 Running Locally
 
